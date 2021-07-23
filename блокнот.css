@@ -1,0 +1,27 @@
+header{
+	background-color:black;
+	padding:30px 140px;
+}
+body{
+	margin:0;
+}
+
+h4{
+	color:white;
+	padding:1opx 140px;
+}
+h3{
+	font-size:40;
+	padding:10px 140px 10px 140px;
+}
+.karusell{
+	margin:0 140px;
+}
+.block{
+	margin:0 140px;
+}
+#rectangle{
+    width:440px;
+    height:400px;
+    background:#66CDAA;
+}
